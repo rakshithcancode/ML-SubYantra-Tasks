@@ -35,7 +35,7 @@ Create a folder with your First Name and Roll Number (name-Rollno) and keep the 
 
  - The task is to see your enthusiasm for learning new things, so make sure you put in some genuine effort into the task
  - Try to complete the task as much as possible, we look more at the effort put in rather than the completion of the task
- - Feel free any of the mentors if you are stuck at anything or if you have doubts regarding the task
+ - Feel free to ask any of the mentors if you are stuck at anything or if you have doubts regarding the task
 
 ## Resources
 
